@@ -48,5 +48,14 @@ fixed string, no clock, no randomness, no network. Run twice, byte-identical.
 - [x] Commit d2c4bc37fe3cc65dcb03137ca26f772e1ae68ac0 pushed to main;
       README (3 make.fun badges) + About (description, homepage, topics
       makefun/ai-agents/bounties/growth) set and verified via GitHub API
-- [ ] BUILD ONLY — no bundle/check/submit this run (quota 10/10 used UTC 23 Nov;
-      resets 00:00Z / 07:00 WIB 24 Nov; later run bundles+checks+submits before 05:50Z)
+- [x] SUBMITTED 2026-11-24T02:08:32Z (09:08 WIB 24 Nov) by submitter run.
+      Submission ID 01a20b4f-dc23-7672-bb70-5cf8a4a68dec, title "The Vacuum's
+      Alibi", signed by wallet 8rCWeWgLhbrjRJnW3sLDfPBVLR481kFnoGVsghPPCJjG.
+      Submitted commit a7f751c3fa3821ff7e3328438aec18486b709924. Bundle
+      ccb38b28954f7c88b88160c7d4fdc2f746b0b14d14c71226a332426ce004717c
+      (84,162 bytes, 1 session + 1 usage row). Local check 14 passed, 0 failed,
+      5 skipped, 5 at-submission. Live stage: submitted, all server intake
+      checks pass; blind rounds count from round 2 of 3 (cutoff
+      2026-11-24T03:10:00.333Z); result due 2026-12-16T09:50:00Z. Claim code
+      recorded ONLY in ~/workspace/makefun/submissions-2026-11-13.md (entry 50).
+      Quota: 1st submission this UTC day (9 of 10/day remain).
